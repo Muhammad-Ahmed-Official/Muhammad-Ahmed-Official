@@ -1,4 +1,3 @@
-## Hi there 👋
  <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
 
 - 🌱 I’m currently learning Backend
@@ -16,7 +15,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git&perline=5)](https://skillicons.dev)
 
 ![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=dark)
 
