@@ -1,6 +1,6 @@
  <h1>Hey there! 👋</h1>
 
- <p>I'm Muhammad Ahmed. I'm a passionate Frontend developer with a keen interest in creating intuitive and engaging user experiences. Currently, I'm expanding my skill set by diving into backend development, striving to become a versatile full-stack developer. As a student at UBIT, I am constantly learning and growing, eager to tackle new challenges and contribute to innovative projects. My journey in tech is driven by curiosity and a commitment to continuous improvement. </p>
+ <p>I'm <b>Muhammad Ahmed</b>b. I'm a passionate Frontend developer with a keen interest in creating intuitive and engaging user experiences. Currently, I'm expanding my skill set by diving into backend development, striving to become a versatile full-stack developer. As a student at UBIT, I am constantly learning and growing, eager to tackle new challenges and contribute to innovative projects. My journey in tech is driven by curiosity and a commitment to continuous improvement. </p>
 
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend 
@@ -19,7 +19,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git)](https://skillicons.dev)
 
-![Muhammad Ahmed'sGitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=transparent)
+![Muhammad Ahmed'sGitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=dark)
 
 ![image](https://user-images.githubusercontent.com/107488620/183304037-0e54b5e6-f39a-481d-806f-3369d257a391.png)  
 
