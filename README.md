@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Muhammad Ahmed</h1>
+ <h1>Hi 👋, I'm Muhammad Ahmed</h1>
 
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend 
