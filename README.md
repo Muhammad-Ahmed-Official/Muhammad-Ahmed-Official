@@ -21,7 +21,9 @@
 
 ![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=transparent)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadahmedanis&theme=highcontrast&hide_border=true&date_format=[Y.]n.j)
+# My GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadahmedanis&theme=dark&hide_border=true)
+
 
 
 
