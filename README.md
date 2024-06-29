@@ -16,11 +16,7 @@
 </div>
 
 ### Languages and Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,git,xd&perline=5)](https://skillicons.dev)
 
 ![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=dark)
 
