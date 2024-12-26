@@ -6,24 +6,15 @@
 - 💬 Ask me anything about Frontend 
 - 📫 How to reach me: ahmedanis4546@gmail.com
   
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/Muhammadahmedanis">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-   <a href="https://www.linkedin.com/in/ahmed-anis-88b843202">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
-</div>
-[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadahmedanis&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwindcss,github)](https://skillicons.dev)
 
 ![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=transparent)
 
 # My GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadahmedanis&theme=highcontrast&hide_border=true)
 
+[![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadahmedanis&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Connect with me:
+ <a href="https://www.linkedin.com/in/muhammad-ahmed-88b843202/" title="Muhammad Ahmed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="35" height="35"/></a>&nbsp;&nbsp;
