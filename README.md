@@ -12,7 +12,6 @@
 ![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=transparent)
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user==Muhammadahmedanis&theme=dark&background=000000"/></p>
-<!-- # My GitHub Stats -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhammadahmedanis&theme=highcontrast&hide_border=true) -->
 
 [![Your GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadahmedanis&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
