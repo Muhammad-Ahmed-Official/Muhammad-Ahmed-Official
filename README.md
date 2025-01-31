@@ -10,7 +10,7 @@
 - 📫 How to reach me: ahmedanis4546@gmail.com
   
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwindcss,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwindcss,expressjs,nodejs,mongodb,github)](https://skillicons.dev)
 
 ![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=transparent)
 
