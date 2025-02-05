@@ -5,7 +5,6 @@
 </div>
 <!--  <p style="font-size: 40px;">I'm <b>Muhammad Ahmed</b>. I'm a passionate Frontend developer with a keen interest in creating intuitive and engaging user experiences. Currently, I'm expanding my skill set by diving into backend development, striving to become a versatile full-stack developer. As a student at UBIT, I am constantly learning and growing, eager to tackle new challenges and contribute to innovative projects. My journey in tech is driven by curiosity and a commitment to continuous improvement. </p> -->
 
-- 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Frontend 
 - 📫 How to reach me: ahmedanis4546@gmail.com
   
