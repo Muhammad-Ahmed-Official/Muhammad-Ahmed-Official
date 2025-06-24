@@ -26,4 +26,6 @@
 
 
 ### Connect with me:
- <a href="https://www.linkedin.com/in/muhammad-ahmed-88b843202/" title="Muhammad Ahmed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="35" height="35"/></a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/muhammad-ahmed-88b843202/" title="Muhammad Ahmed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
+<a href="" title="Gmail" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+
