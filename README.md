@@ -2,7 +2,7 @@
  
 ![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Muhammad%20Ahmed%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muhammadahmedanis&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.com/Muhammadahmedanis)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Ahmed-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.comMuhammad-Ahmed-Official)
 
 </div>
 <h1>About:</h1>
@@ -12,15 +12,15 @@
 - 📫 How to reach me: ahmedanis4546@gmail.com
   
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwindcss,expressjs,nodejs,mongodb,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,next,tailwindcss,expressjs,nodejs,mongodb,github)](https://skillicons.dev)
 
-![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadahmedanis&show_icons=true&theme=transparent)
+![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Official&show_icons=true&theme=transparent)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammadahmedanis&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammadahmedanis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmed-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Ahmed-Official" /> </p>
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Muhammadahmedanis&theme=dark&background=000000"/></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ahmed-Official&theme=dark&background=000000"/></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammadahmedanis&show_icons=true&locale=en&layout=compact" alt="Muhammadahmedanis" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Ahmed-Official&show_icons=true&locale=en&layout=compact" alt="Muhammad-Ahmed-Official" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammadahmedanis&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
