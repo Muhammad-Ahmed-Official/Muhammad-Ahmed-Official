@@ -22,9 +22,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Ahmed-Official&show_icons=true&locale=en&layout=compact" alt="Muhammad-Ahmed-Official" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=/Muhammad-Ahmed-Official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmed-Official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### Connect with me:
  <a href="https://www.linkedin.com/in/muhammad-ahmed-88b843202/" title="Muhammad Ahmed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Gmail" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
