@@ -1,32 +1,93 @@
 <div align="center">
- 
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=9&text=Hi%20👋,%20I'm%20Muhammad%20Ahmed%20‍💻&desc=MERN%20Stack%20Developer%20|%20Crafting%20Responsive%20Web%20Interfaces&descAlign=50&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Ahmed-Official&data=followers,repositories,commits&theme=darkmode&hide_border=true&font=Roboto)](https://github.comMuhammad-Ahmed-Official)
+![](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=0:0a192f,100:172a45&text=Muhammad%20Ahmed&desc=Full%20Stack%20Developer%20|%20MERN%20%2B%20Beyond&descAlign=50&descAlignY=60&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Muhammad-Ahmed-Official&data=followers,repositories,stars,commits&theme=darkmode&hide_border=true&font=Inter)](https://github.com/Muhammad-Ahmed-Official)
 
 </div>
-<h1>About:</h1>
-<!--  <p style="font-size: 40px;">I'm <b>Muhammad Ahmed</b>. I'm a passionate Frontend developer with a keen interest in creating intuitive and engaging user experiences. Currently, I'm expanding my skill set by diving into backend development, striving to become a versatile full-stack developer. As a student at UBIT, I am constantly learning and growing, eager to tackle new challenges and contribute to innovative projects. My journey in tech is driven by curiosity and a commitment to continuous improvement. </p> -->
 
-- 🌱 I’m currently learning **Next JS, Typescript and SAAS.**
-- 📫 How to reach me: ahmedanis4546@gmail.com
+<h1>Who am I ?</h1>
+<p style="max-width: 800px; margin: 0 auto; text-align: center;">
+  Passionate Full Stack Developer specializing in building scalable web applications with modern technologies. Currently expanding expertise in advanced backend systems and AI-driven development.
+</p>
+
+<div style="max-width: 700px; margin: 0 auto;">
   
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,next,tailwindcss,expressjs,nodejs,mongodb,github)](https://skillicons.dev)
+- 🔭 I'm currently working on **MERN & Next.js full-stack projects**
+- 🌱 I'm currently learning **Agentic AI, NestJS, PostgreSQL, Prisma, Drizzle, GraphQL, ImageKit**
+- 💼 Student at **UBIT | Aspiring Tech Lead**
+- 📫 Reach me: **ahmedanis4546@gmail.com**
 
-![Muhammad Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Official&show_icons=true&theme=transparent)
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmed-Official&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Ahmed-Official" /> </p>
+---
 
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Muhammad-Ahmed-Official&theme=dark&background=000000"/></p>
+<h2>Tech Stack</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Ahmed-Official&show_icons=true&locale=en&layout=compact" alt="Muhammad-Ahmed-Official" /></p>
+<div  style="max-width: 900px; margin: 0 auto;">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmed-Official&bg_color=000000&color=00ffee&line=ffffff&point=0008ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap)](https://skillicons.dev)
 
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,postgres,prisma,mongodb,redis)](https://skillicons.dev)
 
-### Connect with me:
- <a href="https://www.linkedin.com/in/muhammad-ahmed-88b843202/" title="Muhammad Ahmed" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" width="30" height="30"/></a>&nbsp;&nbsp;
-<a href="" title="Gmail" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=gmail" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+### DevOps & Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,nginx,postman,vercel)](https://skillicons.dev)
 
-![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=9&descAlign=47&descAlignY=58&fontSize=50&fontAlign=50&fontAlignY=33&section=footer)
+</div>
+
+---
+
+<h2>📈 GitHub Analytics</h2>
+
+<div style="max-width: 1000px; margin: 0 auto;">
+
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Ahmed-Official&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Muhammad-Ahmed-Official&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Ahmed-Official&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+<div style="max-width: 1000px; margin: 0 auto;">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Ahmed-Official&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph)
+
+</div>
+
+---
+
+<h2>🤝 Connect With Me</h2>
+
+<div style="max-width: 400px; margin: 0 auto;">
+  <p>
+    <a href="https://www.linkedin.com/in/muhammad-ahmed-88b843202/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="mailto:ahmedanis4546@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://github.com/Muhammad-Ahmed-Official" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://leetcode.com/u/ahmedanis4546/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="40" height="40"/>
+    </a>
+  </p>
+</div>
+
+---
+
+<div style="max-width: 500px; margin: 0 auto;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Muhammad-Ahmed-Official&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+  </p>
+</div>
+
+<div>
+
+![](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0:0a192f,100:172a45&section=footer&fontAlign=50&fontAlignY=65&desc=Thanks%20for%20visiting!&descAlign=50&descAlignY=50&animation=fadeIn)
+
+</div>
