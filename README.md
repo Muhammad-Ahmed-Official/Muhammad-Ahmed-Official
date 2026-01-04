@@ -14,7 +14,7 @@
 <div style="max-width: 700px; margin: 0 auto;">
   
 - 🔭 I'm currently working on **MERN & Next.js full-stack projects**
-- 🌱 I'm currently learning **Agentic AI, NestJS, PostgreSQL, Prisma, Drizzle, GraphQL, ImageKit**
+- 🌱 I'm currently learning **Agentic AI, NestJS, PostgreSQL, Prisma, Drizzle, GraphQL**
 - 💼 Student at **UBIT | Aspiring Tech Lead**
 - 📫 Reach me: **ahmedanis4546@gmail.com**
 
